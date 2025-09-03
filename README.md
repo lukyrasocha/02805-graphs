@@ -47,4 +47,3 @@ profile_info = scraper.get_profile_info("Sune Lehmann")
 ### The notebook
 
 All the analysis and code to reproduce the results in our paper can be found in the `main.ipynb` notebook.
-# 02805-graphs
